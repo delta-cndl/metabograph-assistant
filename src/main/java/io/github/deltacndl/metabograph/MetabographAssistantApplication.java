@@ -1,4 +1,4 @@
-package io.github.deltacndl.metabograph_assistant;
+package io.github.deltacndl.metabograph;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package io.github.deltacndl.metabograph_assistant;
+package io.github.deltacndl.metabograph;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
